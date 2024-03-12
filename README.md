@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-santos-5a20a3206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabe_sntss/)
 
+### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
+
 ![Joabe Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=joabesnts09&show_icons=true&theme=radical)
 
 ## Tecnologias que eu utilizo
@@ -21,5 +23,3 @@
     <img align="center" alt="EXPRESS.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
-
-### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
