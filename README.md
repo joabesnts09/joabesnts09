@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabe_sntss/)
 
 ### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
-<br/>
 <hr/>
+<br/>
 
 
 
