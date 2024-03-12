@@ -5,7 +5,7 @@
 
 ## Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
 <hr/>
-<br/>
+<!-- <br/> -->
 
 
 ![Joabe Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=joabesnts09&show_icons=true&theme=radical)
