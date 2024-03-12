@@ -5,7 +5,7 @@
 
 ### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
 <br/>
-<hr?>
+<hr/>
 
 
 
