@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-santos-5a20a3206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabe_sntss/)
 
-## Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
+### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
 <br/>
-
+<hr?>
 
 
 
