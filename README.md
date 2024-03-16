@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Joabe Santos 👋
 [![Portifólio](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://portifolio-joabe-santos.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-santos-5a20a3206/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joabe_sntss/)
 
 ### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
 <hr/>
