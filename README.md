@@ -2,7 +2,7 @@
 [![Portifólio](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://portifolio-joabe-santos.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-santos-5a20a3206/)
 
-### Apaixondo por programação, sou um dev Front-End fromado e Full-Stack em formação.
+### Apaixondo por programação, sou um Desenvolvedor Full-Stack.
 <hr/>
 <br/>
 
